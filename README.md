@@ -1,5 +1,5 @@
 # Deep-Learning
-Course project for Deep Learning course at EPFL Spring 2022
+Course project for Deep Learning course at EPFL Spring 2022, in collaboration with Haoxuan Wang.
 
 ## Project 1
 The goal is to build a network that denoises using the PyTorch framework, in particular the torch.nn modules and autograd. It should be implemented with PyTorch only, in particular, without using other external libraries such as scikit-learn or NumPy. You should explore various parts of the training pipeline like data augmentation strategies, optimization methods, loss functions, etc.
